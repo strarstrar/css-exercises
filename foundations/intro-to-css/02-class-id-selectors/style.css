@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd {
     background-color: #fdaccc;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #second {
@@ -9,12 +9,11 @@
     font-size: 36px;
 }
 
-#third {
+.twentyfourpx {
     font-size: 24px;
 }
 
 #fourth {
     background-color: #c0e9b8;
-    font-size: 24px;
     font-weight: 700;
 }
